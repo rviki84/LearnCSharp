@@ -22,6 +22,7 @@ namespace Assembly
         public static double GetPi() { return 3.14; }
 
 
+        /*
         public static void Main(string[] args)
         {
             // create instance of DateTime, use constructor with parameters (year, month, day)
@@ -47,6 +48,6 @@ namespace Assembly
             double value = (double)numberPropertyInfo.GetValue(calcInstance, null);
 
             Console.WriteLine("Value: {0}", value);
-        }
+        }*/
     }
 }
